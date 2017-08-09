@@ -1,6 +1,6 @@
 # Duilib
 
-[官方地址](https://github.com/duilib/duilib)
+[作者原版本地址](https://github.com/duilib/duilib)
 
 ## 修复 WKWebView 闪烁问题
 
