@@ -20,3 +20,8 @@ void CWkeWebkitUI::DoPaint(HDC hDC, const RECT& rcPaint, CControlUI* pStopContro
 
 若出现 **找不到m_pWebView->getViewDC()函数** 提示, 请使用 [WKWebView闪屏修复版本地址](https://github.com/GrayLand119/DuiLib_Redrain) 版本.
 
+## Duilib 界面编辑器
+
+原版的 DuiDesigner 存在很多 BUG, 使用起来非常不方便, 在此添加了一个第三方开发的 ZnDuiDesigner 相比原版稳定很多.
+
+[ZnDuiDesigner.rar](https://github.com/GrayLand119/duilib/ZnDuiDesigner.rar)
